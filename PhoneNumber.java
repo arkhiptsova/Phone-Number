@@ -3,7 +3,7 @@ package FeetNumber;
 import java.util.Scanner;
 
 /*
-Mila Arkhiptcova
+Mila 
 The international standard letter/number mapping for telephones is given 
 in this Exercise.  Write a method that returns a number, given an uppercase letter,
 as follows:
@@ -18,8 +18,7 @@ Enter a  string: 1-800-Flowers [enter]
 Enter a string: 1800flowers [enter]
 18003569377
 
-09/24/2019
-Bellevue University
+
 PhoneNumber.java
 */
 public class PhoneNumber {
